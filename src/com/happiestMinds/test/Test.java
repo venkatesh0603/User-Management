@@ -23,6 +23,7 @@ public class Test {
 	
 	public static void main(String[] args) throws ParseException {
 	
+		System.out.println("test");
 	Enumeration days;
 	
 	Vector day=new Vector();
