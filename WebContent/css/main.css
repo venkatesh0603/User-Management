@@ -1,0 +1,26 @@
+.myGrid {
+	width: 500px;
+	height: 250px;
+}
+
+.btn-round {
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+}
+
+.btn-space {
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.full button span {
+    background-color: limegreen;
+    border-radius: 32px;
+    color: black;
+  }
+  .partially button span {
+    background-color: orange;
+    border-radius: 32px;
+    color: black;
+  }
