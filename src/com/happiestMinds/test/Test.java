@@ -23,7 +23,7 @@ public class Test {
 	
 	public static void main(String[] args) throws ParseException {
 	
-		System.out.println("test");
+/*		System.out.println("test");
 	Enumeration days;
 	
 	Vector day=new Vector();
@@ -64,7 +64,7 @@ public class Test {
     bits2.xor(bits1);
     System.out.println("\nbits2 XOR bits1: ");
     System.out.println(bits2);
-	}
+*/	}
 
 }
 
